@@ -1,5 +1,5 @@
 # Lab3
-This is the repository for IoTs subject - lab03 - RFID "\n"
+This is the repository for IoTs subject - lab03 - RFID <br>
 You will need a RFID card, board MFRC522, board Arduino UNO R3, an LCD that is connected to board Arduino (or Vysor if you dont have any LCD) "\n"
 This is how you can run this project --> "\n"
 Step 1: Connect the MFRC522 to R3 by searching pinout on Google, it's so easy to do this step."\n"
